@@ -1,4 +1,8 @@
 public static void main(String arg[]){
 }
+int main(){
+}
+return 0;
+
 
 
